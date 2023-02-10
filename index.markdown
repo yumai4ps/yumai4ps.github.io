@@ -51,6 +51,9 @@ layout: empty
                 <li class="services-film">Film</li>
                 <li class="services-photo">Photo</li> -->
             </ul>
+
+            <p><a href="https://pan.baidu.com/s/1KNFOCoLLNmYZJ8t_F_yvEg?pwd=41uf">ps插件 (中文试用版下载地址)</a></p>
+
         </div>
     <div class="bottom-divider"></div> 
     </div>
